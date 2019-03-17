@@ -10771,6 +10771,10 @@ header.masthead h1 {
   background-size: 200px auto;
 }
 
+.insta {
+  font-size: 64px;
+}
+
 @media screen and (max-width: 400px) {
   .logo {
     right: 17px;
